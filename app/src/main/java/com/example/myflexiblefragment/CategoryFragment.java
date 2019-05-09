@@ -57,5 +57,6 @@ public class CategoryFragment extends Fragment implements View.OnClickListener {
                 mFragmentTransaction.commit();
             }
         }
+
     }
 }
